@@ -1,5 +1,3 @@
-# Basic-Socket-Programming
-
 # UDP Client-Server Communication
 
 This project implements a UDP-based client-server communication system in Python. The communication follows a structured approach where the client sends encapsulated messages with a checksum, and the server verifies the integrity before acknowledging the received data.
